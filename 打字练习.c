@@ -1,6 +1,5 @@
 /*
- * 编译第一步： gcc -c 打字练习.c -o 1.o
- * 编译第二步： gcc 1.o mycon.o -lwinmm -o 打字练习.exe
+ * 编译： gcc 打字练习.c mycon.o -lwinmm -o 打字练习.exe
  */
 #include <stdio.h>
 #include <windows.h>
