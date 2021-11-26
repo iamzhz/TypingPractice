@@ -3,9 +3,8 @@
  */
 #include <stdio.h>
 #include <windows.h>
-#include <mycon.h>
 #include <stdlib.h>
-
+#include "mycon.h"
 int main(void)
 {
 	cls();
