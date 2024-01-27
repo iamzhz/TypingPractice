@@ -1,6 +1,3 @@
-/*
- * 编译： gcc 打字练习.c mycon.o -lwinmm -o 打字练习.exe
- */
 #include <stdio.h>
 #include <windows.h>
 #include <stdlib.h>
