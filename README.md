@@ -1,2 +1,5 @@
 # TypingPractice
-编译： gcc 1.o 打字练习.c mycon.o -lwinmm -o 打字练习.exe
+编译：
+```
+gcc 打字练习.c mycon.o -o 打字练习.exe -lwinmm
+```
