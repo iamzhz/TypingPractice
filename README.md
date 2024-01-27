@@ -1,5 +1,5 @@
 # TypingPractice
 编译：
 ```
-gcc 打字练习.c mycon.o -o 打字练习.exe -lwinmm
+gcc tp.c mycon.o -o tp.exe -lwinmm
 ```
