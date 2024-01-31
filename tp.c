@@ -8,6 +8,7 @@ int main(void) {
 	int curLine = 2;
 	FILE *fp = fopen("1.txt", "r");
 	cls();
+	set_title("Typing Practice");
 	gotoxy(4, curLine);
 	set_size(100, 30);
 	if(fp == NULL) {
