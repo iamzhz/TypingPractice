@@ -1,7 +1,7 @@
 # TypingPractice
 A simple typing practice program running on Windows.  
 一个运行在Windows的简单打字练习程序  
-![](https://img.shields.io/badge/Windows-10/8/7/Vista-blue)
+![](https://img.shields.io/badge/Windows-11/10/8/7/Vista-blue)
 ![](https://img.shields.io/badge/GCC-4.9.2-green)
 ## Compile 编译
 ```
