@@ -11,4 +11,4 @@ gcc tp.c mycon.c -o tp.exe -lwinmm
 Store the text that needs to be practiced typing in the `1. txt` file of the current directory.  
 把需要练习打字的文字存储在当前目录的`1.txt`文件
 ## :link:
-<a href="https://github.com/iamzhz/mycon/">![](https://img.shields.io/badge/iamzhz-mycon-red)]</a>
+<a href="https://github.com/iamzhz/mycon/">![](https://img.shields.io/badge/iamzhz-mycon-red)</a>
